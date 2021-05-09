@@ -1,0 +1,85 @@
+Let’s walk through a series of tasks and ask a set of questions from user’s point of
+view.
+Step 1: Choosing user or persona.
+The persona of our user – Mr. Benjamin.
+• Knowing persona’s ability and assistive technology they use.
+
+The elderly or visually impaired people are incapable to go to the market on
+their own. Generally, they use a simple cane. It might help them in providing
+support in their way, but wait that’s not a smart solution for them. They need
+someone to take care of them and our smart walking stick is all set to help
+them out.
+• Knowing the effect of their disability/ability on their digital experience.
+Many elders are not able to call out by dialing on emergency numbers like
+hospital’s no when they meet with any accident due to weak memory problem
+or since it freaks them badly. Our smart walking stick is just a button away to
+any such help they desire.
+• Knowing their motivation, emotion, risk tolerance and persistence.
+We generally find elderly or impaired people involved in spiritual activities.
+Our product’s user is highly inclined towards visiting temples, gardens or
+shop nearby. These emotional inclinations of our user can be fulfilled by using
+the static settings of navigation helper using our smart walking stick. The user
+is highly intolerant to any physical hurt and thus we incorporate an alert
+system.
+Example of persona and the stigma of our stick user: Mr. Benjamin
+Mr. Benjamin is an old man incapable to go to the market on his own.
+Staying home all day gets tiring and very routine.
+His family members will be worried if he loses his way in between or
+unfortunately meets any accident.
+He even forgets taking her daily medicines.
+He is getting stressed and weak day by day.
+
+Step 2: Creating a list of tasks a user wants to do
+• User want to visit places safely
+• User wants to cross any obstacle that comes in the way safely.
+• User is worried about what if a health issue like abnormal heart rate problem
+occurs in way, he wants a monitoring system.
+• The targeted users of our project are challenged at physical levels may be due
+to age or some inborn issues, they want an assistance or kind of reminder to
+carry out their work.
+
+Step 3: Creating of list of steps needed to complete each task with Scenario-Based
+Designing
+User wants to visit places safely.
+Scenario: User forgets which way to go/ want to take the shortest path.
+Steps: No extra effort, just see the static settings already incorporated in
+stick.
+Small screen attached to the claw controller shows an arrow in the direction user
+has to head.
+Audio also helps directing the elder or visually impaired to take the right path.
+User listens the audio on the headphone or see the screen.
+User wants to cross any obstacle that comes in the way safely.
+
+Scenario: User comes across an obstacle.
+
+Small camera at the bottom of walking stick captures pic. The AI enabled data
+training model attached to stick analyzes if it hits an obstacle.
+User is worried about what if a health issue like abnormal heart rate problem
+occurs in way, he wants a monitoring system.
+Scenario: User feels uneasy while climbing on stair or due to other factors.
+PPG sensors (a light-based technology to sense the rate of blood flow as
+controlled by the heart’s pumping action) attached to the walking stick senses
+fluctuation in blood flow rate.
+LED alerts the user first to take a rest if high fluctuation in heart rate is observed.
+The targeted users of our project are challenged at physical levels may be due to
+age or some inborn issues, they want an assistance or kind of reminder to carry
+out their work.
+
+
+Scenario: User wants to set a reminder for carrying out any task.
+
+Steps:
+ Button pressed by user for enabling reminder option.
+ User sets time 16*2 LCD screen (like a touch mobile).
+Step 4: Perform the complete walkthrough
+If I am the user of smart walking stick and I see myself in user’s foot i.e. I am
+assuming myself to be 65 years old lady.
+In such condition, the only priority for me would be carrying out task comfortably
+and easily.
+Ex: I want to set a reminder but I wouldn’t want a complex task for that, a single
+button click would do.
+I want short path, I am not so updated with technology at this age, a click or signal
+will do.
+I want immediate help and since its urgency situation, I should be able to tackle
+the situation with single button click.
+
