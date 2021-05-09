@@ -1,0 +1,18 @@
+Elderly could have very weak vision, and this is not considered in the current
+design. We could incorporate OCR (Optical character recognition) techniques
+that helps the elderly. This could signal them and still help the same way even
+if they cannot see.
+• It will be able to suggest how to cross the roads in a safe manner.
+• It can also analyze the heart rate of the person and if it seems to be very high,
+then there may be chances of discomfort so the system will suggest a different
+route. E.g., there might be a route where there are a lot of stairs or a high slope,
+in this case the person’s heart rate would be high. When this is the case, the
+stick could suggest an alternative, comfortable route.
+• The elderly can only remember so little, they probably forget to take their
+medicines. The system can send daily reminders to them so that everything
+happens on time.
+• If the person using the stick, unfortunately collapses or say, something
+happens to them, the stick should be able to sense it and alert the surroundings
+by an alarm.
+• Our main aim is to make this stick as cost effective and reliable as possible,
+keeping in mind that it should be light weighted and portable.
